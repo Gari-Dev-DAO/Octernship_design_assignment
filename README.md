@@ -2,17 +2,24 @@
 Octernship Web3 design Intern assignment
 # Information
 
-## COMPANY-NAME
+## GARI-Network
 
-![Company Logo](IMAGE-URL)
+![Company Logo](https://drive.google.com/file/d/1o3XgJVfJOepMH2gWLXOcZeJufWkGDZ9-/view?usp=share_link)
 
 ### Company information 
 
-&lt;!--- Use this section to share information about your company such as founding information, mission statement, product description, product success, etc.--->
+&lt;!--- Chingari, powered by GARI is India’s fastest-growing short-video app launched in 2018. Since then, the home-grown app has emerged as the one-stop destination for entertaining, engaging videos across diverse categories such as dancing, singing, transformation, innovative skills, etc. Chingari’s eclectic platform entertains 130M+ users across India, and witnesses videos in 15+ languages.
+
+$GARI Social Token, was launched by Chingari- India’s fastest growing short-video app in 2021. With a combined community of 130M+ and growing, $GARI was introduced as a social token for the Chingari creators to create engaging content and for users to engage with the content. These tokens are not only tradeable for their local currency but also provide governance authority over Chingar’s future developments.
+
+To incentivize creators and users that are more active than others, GARI is creating a program that allows users to mint badges based on their activity on the platform. These badges in-turn lead to rewards in the form of GARI tokens.
+
+The main goal for this challenge is to create the web3 infra required to verify if a wallet holds a particular token and unlock certain content of your choice. example of content that can be gated: Text, Images, Videos --->
 
 ### Why participate in an Octernship with COMPANY-NAME
 
-&lt;!--- Use this section to appeal to students. Consider sharing information about recent projects, the technology stack, the type of mentorship students can expect, listing future employment opportunities, etc. --->
+&lt;!--- An Internship program would be an all hands on deck program with a lot more working freedom since you will be working with the core builder team of Chingari & Gari Network. A monthly stipend is involved, with a suitable duration concerning the Internship.
+Our interns will be given full autonomy, allowing them to decide whatever they want to do, experiment, and ask a lot of questions, and we will encourage and push our interns to succeed. --->
 
 ### Octernship role description
 
@@ -32,7 +39,9 @@ To participate, you must be:
 
 * Active contributor on GitHub (monthly)
 
-# Assignment
+* Accepts Stipend in Crypto
+
+# Assignment 
 
 ## TASK-TITLE
 
