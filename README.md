@@ -30,7 +30,7 @@ Our interns will be given full autonomy, allowing them to decide whatever they w
 
 ### Recommended qualifications
 
-&lt;!--- Use this section to describe what skills a student might need to complete the problem statement on GitHub Classroom --->
+[ # ] Can you get the work done? Cool that sufficient you are in.
 
 ### Eligibility
 
