@@ -12,7 +12,7 @@ Chingari, powered by GARI is India’s fastest-growing short-video app launched 
 
 $GARI Social Token, was launched by Chingari- India’s fastest growing short-video app in 2021. With a combined community of 130M+ and growing, $GARI was introduced as a social token for the Chingari creators to create engaging content and for users to engage with the content. These tokens are not only tradeable for their local currency but also provide governance authority over Chingar’s future developments.
 
-### Why participate in an Octernship with COMPANY-NAME
+### Why participate in an Octernship with Chingari/ GARI
 
 An Internship program would be an all hands on deck program with a lot more working freedom since you will be working with the core builder team of Chingari & Gari Network. A monthly stipend is involved, with a suitable duration concerning the Internship.
 Our interns will be given full autonomy, allowing them to decide whatever they want to do, experiment, and ask a lot of questions, and we will encourage and push our interns to succeed.
