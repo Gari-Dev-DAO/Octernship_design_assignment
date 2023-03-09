@@ -4,7 +4,7 @@ Octernship Web3 design Intern assignment
 
 ## GARI-Network
 
-![Company Logo](https://drive.google.com/file/d/1o3XgJVfJOepMH2gWLXOcZeJufWkGDZ9-/view?usp=share_link)
+<img src="https://user-images.githubusercontent.com/53075480/223997039-adf9cbba-9abf-4616-9f6a-3589acc60478.jpg" width=30%>
 
 ### Company information 
 
