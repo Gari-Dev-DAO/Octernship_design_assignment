@@ -80,7 +80,7 @@ Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-st
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
-| Assignment Deadline  | 20 March 2023  |
+| Assignment Deadline  | 27 March 2023  |
 | Octernship Duration  | 4 Months  |
 | Monthly Stipend  | $500 USD  |
 
